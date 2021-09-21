@@ -16,4 +16,4 @@ Para demonstração do protótipo navegável do sistema foi utilizado os seguint
     
 
 #planilha_APF
-Planilha de contagem de pontos de função do projeto de desenvolvido.
+Planilha de contagem de pontos de função do projeto em desenvolvimento.
